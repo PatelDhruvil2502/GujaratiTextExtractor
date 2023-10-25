@@ -1,0 +1,7 @@
+venv
+RequiredFiles
+__pycache__
+outputs
+temp
+*ipynb*
+.pytest_cache
